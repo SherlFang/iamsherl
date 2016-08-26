@@ -4,8 +4,8 @@
 ####################################
 #
 title: Sherl Fang
-email:
-description: A simple and awesome blog theme powered by jekyll.
+email: sherlfang@gmail.com
+description: Keep calm and carry on.
 url: # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/China
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,9 +35,9 @@ kramdown:
 owner:
   name: Sherl Fang
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "UX Designer"
+  bio: "方馨月  主线IxD,辅线产品与编程的UXer"
+  email: sherlfang@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a class="btn" href= "{{ site.url }}/" >
-  Home
+  首页
 </a>
 {% if page.image.feature %}
 <div class="post-image-feature">
@@ -27,7 +27,23 @@ layout: default
     <h1 title="{{ page.title }}">{{ page.title }}</h1>
     <span class="post-meta">
       <span class="post-date">
-        {{ page.date | date: "%-d %b %Y" | upcase }}
+        {% assign m = page.date | date: "%-m" %}
+        {{ page.date | date: "%Y" }}年
+         {% case m %}
+          {% when '1' %}1月
+          {% when '2' %}2月
+          {% when '3' %}3月
+          {% when '4' %}4月
+          {% when '5' %}5月
+          {% when '6' %}6月
+          {% when '7' %}7月
+          {% when '8' %}8月
+          {% when '9' %}9月
+          {% when '10' %}10月
+          {% when '11' %}11月
+          {% when '12' %}12月
+         {% endcase %}
+       {{ page.date | date: "%-d" }}日
       </span>
       •
       {% include read_time.html %}
