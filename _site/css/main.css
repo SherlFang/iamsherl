@@ -1192,7 +1192,8 @@ pre, code {
   color: #525252;
   font-size: 0.9em;
   background-color: #f8f8f8;
-  font-size: 12px; }
+  /*font-size: ($font-size-base - 3);*/
+  font-size: 15px; }
 
 code {
   color: #e96900;
@@ -1533,7 +1534,7 @@ ul.tag-cloud {
   margin-bottom: 2em; }
   .tag-list .tag-group .tag-group-title {
     color: #F5A623;
-    text-transform: capitalize; }
+    text-transform: none; }
   .tag-list .tag-group .tag-item {
     padding-left: 1em;
     margin-bottom: .5em; }

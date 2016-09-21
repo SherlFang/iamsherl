@@ -5,45 +5,58 @@
     <description>Keep calm and carry on.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 01:05:13 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 01:05:13 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 11:55:15 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 11:55:15 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>关于2b与2c的产品思考</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Aug 2016 15:07:19 +0000</pubDate>
-        <link>/articles/2016-08/about-2b-and-2c</link>
-        <guid isPermaLink="true">/articles/2016-08/about-2b-and-2c</guid>
-        
-        
-        <category>产品</category>
-        
-      </item>
-    
-      <item>
-        <title>关于2b与2c的产品思考</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>关于2B与2C产品的一些微小思考</title>
+        <description>&lt;p&gt;［话说在个人网站发布自己的第一篇文章……真的好激动啊～］&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;［虾面是正文］&lt;/p&gt;
+
+&lt;p&gt;最近从一家2C的金融类公司跳槽到一家2B的移动办公类公司，新工作开始才4个月，但是已经明显的感觉到做2C与2B产品思考问题方式的不同了。在此摘取其中三个对我影响比较大的方面进行简要的分析阐述，希望以后自己在进行产品设计时能更加深入思考。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h4 id=&quot;section&quot;&gt;一、“人从众”与“擒贼先擒王”&lt;/h4&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;产品的直接受益者的不同影响了产品决策&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;作为2C产品，直接受益者为用户本身，用户是选择继续使用、卸载还是放置不管，都有绝对的话语权。所以作为2C的产品，你要把握的是一个一个独立的用户，这也就是为什么2C产品大多依靠口碑、品牌、广告等方式进行传播。
+在对2C产品进行设计时，考虑的方面应该以产品本身的使用体验为中心，所有的设计都以使用体验为主。特别是很多行业的产品已经渐渐趋同、差异化越来越不明显，用户体验做的越好的产品就会走的越远。&lt;/p&gt;
 
+&lt;p&gt;作为2B产品，直接受益者为某一个企业或团体，并且&lt;code class=&quot;highlighter-rouge&quot;&gt;付费方也为企业或团体&lt;/code&gt;。产品需要做的，是在某一个领域给企业提供一个综合的解决方案。
+也就是说，在产品设计方面必须要从企业的方面进行考虑，通过合理规划各个职能岗的工作，来&lt;code class=&quot;highlighter-rouge&quot;&gt;使公司的工作效率达到最高&lt;/code&gt;。它是一个综合和平衡。&lt;/p&gt;
+
+&lt;p&gt;直接收益者的区别就导致了，2B与2C产品的设计中心不同。满足独立用户的需求vs满足整个企业的需求。
+作为2B用户在进行设计的时候，一定要多站在一整个业务流程的角度进行宏观的思考，怎样帮助企业更好的解决问题。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;二、“我想给你”与“我能给你”&lt;/h4&gt;
+
+&lt;p&gt;2C的产品需求的处理方式比较多样，比如“二八法则”：列出目标用户对该产品的所有显性需求与隐形需求，选出其中20%的需求、将这些需求做到极致、去满足80%的用户。再比如一些已经在行业内具有影响力的产品在筛选产品需求时会注重“用户培养”，也就是说培养用户的使用习惯，甚至去创造需求让用户产生依赖。
+所以，2C产品在需求方面的把控更加的灵活，方式与路径也是多种多样，根据产品的发展路线不同，需求的筛选标准也会产生不同。所以2C产品的用户所看到的需求都是产品经理经过深思熟虑后想给你看的需求。&lt;/p&gt;
+
+&lt;p&gt;2B产品在需求方面的处理，可以说是即简单又复杂。当你面对客户需求的时候，更多的是尽力满足用户的需求。也就是尽力铺开用户面。&lt;code class=&quot;highlighter-rouge&quot;&gt;相对于“Branding”“趣味性”这些精神上的需求，2B产品更在乎的是功能是否满足需求&lt;/code&gt;，当你的产品不足以支撑工作场景的使用需求时，用户便会放弃你的产品。
+所以，2B产品更在乎的是，&lt;code class=&quot;highlighter-rouge&quot;&gt;能否覆盖到所有用户的使用场景&lt;/code&gt;。用户有什么样的需求，在不冲突的情况下都会尽力去满足。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;三、“精益求精”与“先上了再说！”&lt;/h4&gt;
+
+&lt;p&gt;在2C公司，进行产品评审的时候，经常听到这样的话：这样做不行，产品体验太差了，先把方案优化好再说吧。
+在2B公司，进行产品评审的时候，经常听到这样的话：我们这个功能急着上，先保证功能的可用性，上了再去优化体验方面的问题。&lt;/p&gt;
+
+&lt;p&gt;站在一个2C产品的交互设计师角度，听到这样的话肯定是不赞同的，用户体验直接影响用户对你产品的评价，这样草草发布对产品的品牌及口碑都会带来影响。但是2C的产品就像之前说的，&lt;code class=&quot;highlighter-rouge&quot;&gt;更在乎的是功能的覆盖区域&lt;/code&gt;。当用户选择了你的产品并开始使用，就&lt;code class=&quot;highlighter-rouge&quot;&gt;很难再变更去使用其它产品了&lt;/code&gt;。因为可能需要改变全员的用户习惯、处理流程，之前的沉淀数据更是不好处理，&lt;code class=&quot;highlighter-rouge&quot;&gt;迁移成本太高&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;所以，在2B产品公司，更加注重产品功能是否全面，先上功能再进行完善是比较常规的做法。所以大部分功能型产品也是采用&lt;code class=&quot;highlighter-rouge&quot;&gt;小步快速迭代&lt;/code&gt;的方式进行产品更新。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;最后，总结一下2B产品的特点：&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;1，设计需从整个流程去考虑，而不只是单纯的从某个角色、某一个操作去考虑。需要达到整体流程效益最大化。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;2，由于迁移成本巨大，先圈住用户才是聪明的做法，所以需要小步快速迭代，功能先上、优化后行。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;3，也是由于2中的问题，产品经理在需求筛选上，注定没有办法展现个人的偏好。所以很多2C产品会某些独具产品经理的个人风格，但2B产品给人展现的几乎都是大而全的印象。&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 18 Aug 2016 15:07:19 +0000</pubDate>
-        <link>/articles/2016-08/welcome-to-jekyll</link>
-        <guid isPermaLink="true">/articles/2016-08/welcome-to-jekyll</guid>
+        <pubDate>Tue, 20 Sep 2016 19:48:19 +0000</pubDate>
+        <link>/articles/2016-09/about-2b-and-2c</link>
+        <guid isPermaLink="true">/articles/2016-09/about-2b-and-2c</guid>
         
         
         <category>产品</category>
